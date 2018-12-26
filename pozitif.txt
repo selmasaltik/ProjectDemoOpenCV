@@ -1,0 +1,58 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 8022-BFE0
+
+ Directory of C:\OpenCV\ProjectDemoOpenCV\ProjectDemoOpenCV\pozitif
+
+9338497.1.jpg    9338497.10.jpg   9338497.11.jpg   9338497.12.jpg
+9338497.13.jpg   9338497.14.jpg   9338497.15.jpg   9338497.16.jpg
+9338497.17.jpg   9338497.18.jpg   9338497.19.jpg   9338497.2.jpg
+9338497.20.jpg   9338497.3.jpg    9338497.4.jpg    9338497.5.jpg
+9338497.6.jpg    9338497.7.jpg    9338497.8.jpg    9338497.9.jpg
+9338519.1.jpg    9338519.10.jpg   9338519.11.jpg   9338519.12.jpg
+9338519.13.jpg   9338519.14.jpg   9338519.15.jpg   9338519.16.jpg
+9338519.17.jpg   9338519.18.jpg   9338519.19.jpg   9338519.2.jpg
+9338519.20.jpg   9338519.3.jpg    9338519.4.jpg    9338519.5.jpg
+9338519.6.jpg    9338519.7.jpg    9338519.8.jpg    9338519.9.jpg
+9338543.1.jpg    9338543.10.jpg   9338543.11.jpg   9338543.12.jpg
+9338543.13.jpg   9338543.14.jpg   9338543.15.jpg   9338543.2.jpg
+9338543.3.jpg    9338543.4.jpg    9338543.5.jpg    9338543.6.jpg
+9338543.7.jpg    9338543.8.jpg    9338543.9.jpg    9540512.1.jpg
+9540512.10.jpg   9540512.11.jpg   9540512.12.jpg   9540512.13.jpg
+9540512.14.jpg   9540512.15.jpg   9540512.16.jpg   9540512.17.jpg
+9540512.18.jpg   9540512.19.jpg   9540512.2.jpg    9540512.20.jpg
+9540512.3.jpg    9540512.4.jpg    9540512.5.jpg    9540512.6.jpg
+9540512.7.jpg    9540512.8.jpg    9540512.9.jpg    9540628.1.jpg
+9540628.10.jpg   9540628.11.jpg   9540628.12.jpg   9540628.13.jpg
+9540628.14.jpg   9540628.15.jpg   9540628.16.jpg   9540628.17.jpg
+9540628.18.jpg   9540628.19.jpg   9540628.2.jpg    9540628.20.jpg
+9540628.3.jpg    9540628.4.jpg    9540628.5.jpg    9540628.6.jpg
+9540628.7.jpg    9540628.8.jpg    9540628.9.jpg    anpage.1.jpg
+anpage.12.jpg    anpage.13.jpg    anpage.14.jpg    anpage.15.jpg
+anpage.16.jpg    anpage.17.jpg    anpage.18.jpg    anpage.19.jpg
+anpage.2.jpg     anpage.20.jpg    anpage.3.jpg     anpage.4.jpg
+anpage.5.jpg     anpage.6.jpg     anpage.7.jpg     anpage.8.jpg
+anpage.9.jpg     apapou.1.jpg     apapou.10.jpg    apapou.11.jpg
+apapou.12.jpg    apapou.13.jpg    apapou.14.jpg    apapou.15.jpg
+apapou.16.jpg    apapou.17.jpg    apapou.18.jpg    apapou.19.jpg
+apapou.2.jpg     apapou.20.jpg    apapou.3.jpg     apapou.4.jpg
+apapou.5.jpg     apapou.6.jpg     apapou.7.jpg     apapou.8.jpg
+apapou.9.jpg     boylee.1.jpg     boylee.10.jpg    boylee.11.jpg
+boylee.12.jpg    boylee.13.jpg    boylee.14.jpg    boylee.15.jpg
+boylee.16.jpg    boylee.17.jpg    boylee.18.jpg    boylee.19.jpg
+boylee.2.jpg     boylee.20.jpg    boylee.3.jpg     boylee.4.jpg
+boylee.5.jpg     boylee.6.jpg     boylee.7.jpg     boylee.8.jpg
+boylee.9.jpg     cfloro.1.jpg     cfloro.10.jpg    cfloro.11.jpg
+cfloro.12.jpg    cfloro.13.jpg    cfloro.14.jpg    cfloro.15.jpg
+cfloro.16.jpg    cfloro.17.jpg    cfloro.18.jpg    cfloro.19.jpg
+cfloro.2.jpg     cfloro.20.jpg    cfloro.3.jpg     klclar.1.jpg
+klclar.10.jpg    klclar.12.jpg    klclar.13.jpg    klclar.14.jpg
+klclar.15.jpg    klclar.16.jpg    klclar.17.jpg    klclar.18.jpg
+klclar.19.jpg    klclar.2.jpg     klclar.20.jpg    klclar.3.jpg
+klclar.4.jpg     klclar.5.jpg     klclar.6.jpg     klclar.7.jpg
+klclar.8.jpg     klclar.9.jpg     lfso.1.jpg       lfso.10.jpg
+lfso.11.jpg      lfso.12.jpg      lfso.13.jpg      lfso.14.jpg
+lfso.15.jpg      lfso.2.jpg       lfso.3.jpg       lfso.4.jpg
+lfso.5.jpg       lfso.6.jpg       lfso.7.jpg       lfso.8.jpg
+lfso.9.jpg       
+             201 File(s)      1.126.192 bytes
+               0 Dir(s)  155.293.650.944 bytes free
